@@ -1,4 +1,4 @@
-# 24/07/16 - NameCountriesGame (#1)
+# 16/07/24 - NameCountriesGame (#1)
 This project is a game where the user lists as many countries as they can. The
 user can see the number of countries remaining and the countries already named
 below the text box.
